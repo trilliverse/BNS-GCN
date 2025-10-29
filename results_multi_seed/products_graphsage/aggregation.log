@@ -1,0 +1,14 @@
+seed_0.log -> Test 79.1700% | ValMax 92.3500%
+seed_1.log -> Test 79.3300% | ValMax 92.5000%
+seed_2.log -> Test 79.2900% | ValMax 92.5400%
+seed_3.log -> Test 79.7300% | ValMax 92.4100%
+seed_4.log -> Test 79.4700% | ValMax 92.5500%
+seed_5.log -> Test 79.6500% | ValMax 92.4900%
+seed_6.log -> Test 79.2300% | ValMax 92.3900%
+seed_7.log -> Test 78.8800% | ValMax 92.4800%
+seed_8.log -> Test 79.5200% | ValMax 92.5100%
+seed_9.log -> Test 79.6200% | ValMax 92.4400%
+
+=== Aggregation ===
+Test Accuracy: 79.39% ± 0.26%  (n=10)
+Max Val Accuracy: 92.47% ± 0.07%  (n=10)
